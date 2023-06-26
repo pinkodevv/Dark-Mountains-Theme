@@ -1,5 +1,5 @@
 /**
- * @name Purple Mountains
+ * @name Purple Mountains Theme
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -18,15 +18,15 @@
   --success-color: #43b581;
   --danger-color: #982929;
   --url-color: var(--main-color);
-  --background-image: url('https://t4.ftcdn.net/jpg/05/99/68/11/360_F_599681136_GZiWz2SrGpYvlJb5hSGFgXl7rliLyAqM.jpg');
+  --background-image: url('https://static.vecteezy.com/system/resources/thumbnails/000/359/215/small/eezy_69-01.png');
   --background-shading: 100%;
   --background-position: center;
-  --background-size: cover;
+  --background-size: 100%;
   --background-repeat: no-repeat;
   --background-attachment: fixed;
-  --background-brightness: 111%;
+  --background-brightness: 69%;
   --background-contrast: 100%;
-  --background-saturation: 202%;
+  --background-saturation: 295%;
   --background-grayscale: 0%;
   --background-invert: 0%;
   --background-blur: 0px;
