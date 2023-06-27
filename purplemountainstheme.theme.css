@@ -1,0 +1,91 @@
+/**
+ * @name Purple Mountains Theme
+ * @author ClearVision Team
+ * @version 6.3.0
+ * @description Highly customizable and beautiful theme for BetterDiscord.
+ * @source https://github.com/ClearVision/ClearVision-v6
+ * @website https://clearvision.github.io
+ * @invite 7pNUC9C
+ * @BDEditor Clear Vision
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Gotham:wght@100;300;400;500;700&display=swap');
+@import url('https://clearvision.github.io/ClearVision-v6/main.css');
+
+:root {
+  --main-color: #4E00D7;
+  --hover-color: #0076FF;
+  --success-color: #43b581;
+  --danger-color: #982929;
+  --url-color: var(--main-color);
+  --background-image: url('https://static.vecteezy.com/system/resources/thumbnails/000/359/215/small/eezy_69-01.png');
+  --background-shading: 100%;
+  --background-position: center;
+  --background-size: 100%;
+  --background-repeat: no-repeat;
+  --background-attachment: fixed;
+  --background-brightness: 69%;
+  --background-contrast: 100%;
+  --background-saturation: 295%;
+  --background-grayscale: 0%;
+  --background-invert: 0%;
+  --background-blur: 0px;
+  --background-overlay: rgba(0,0,0,0.6);
+  --user-popout-image: url('https://t4.ftcdn.net/jpg/05/99/68/11/360_F_599681136_GZiWz2SrGpYvlJb5hSGFgXl7rliLyAqM.jpg');
+  --user-popout-position: center;
+  --user-popout-size: cover;
+  --user-popout-repeat: no-repeat;
+  --user-popout-attachment: fixed;
+  --user-popout-brightness: 100%;
+  --user-popout-contrast: 100%;
+  --user-popout-saturation: 100%;
+  --user-popout-grayscale: 0%;
+  --user-popout-invert: 0%;
+  --user-popout-blur: 3px;
+  --user-modal-image: url('https://w0.peakpx.com/wallpaper/286/796/HD-wallpaper-purple-mountains-mountain-majesty-purple.jpg');
+  --user-modal-position: center;
+  --user-modal-size: cover;
+  --user-modal-repeat: no-repeat;
+  --user-modal-attachment: fixed;
+  --user-modal-brightness: 72%;
+  --user-modal-contrast: 100%;
+  --user-modal-saturation: 298%;
+  --user-modal-grayscale: 18%;
+  --user-modal-invert: 0%;
+  --user-modal-blur: 0px;
+  --home-icon: url('https://o.remove.bg/downloads/74d1d4f4-e1d2-4f2c-8366-03b91f123db9/image-removebg-preview.png');
+  --home-position: center;
+  --home-size: 35px;
+  --channel-unread: #FFFFFF;
+  --channel-color: rgb(255,255,255,0.3);
+  --muted-color: rgba(255,255,255,0.1);
+  --online-color: #43b581;
+  --idle-color: #faa61a;
+  --dnd-color: #982929;
+  --streaming-color: #593695;
+  --offline-color: #808080;
+  --main-font: Gotham;
+  --code-font: Consolas;
+  --channels-width: 220px;
+  --members-width: 240px;
+  --backdrop-overlay: rgba(0,0,0,0.8);
+  --backdrop-image: var(--background-image);
+  --backdrop-position: var(--background-position);
+  --backdrop-size: var(--background-size);
+  --backdrop-repeat: var(--background-repeat);
+  --backdrop-attachment: var(--background-attachment);
+  --backdrop-brightness: var(--background-brightness);
+  --backdrop-contrast: var(--background-contrast);
+  --backdrop-saturation: var(--background-saturation);
+  --backdrop-invert: var(--background-invert);
+  --backdrop-grayscale: var(--background-grayscale);
+  --backdrop-sepia: var(--background-sepia);
+  --backdrop-blur: var(--background-blur);
+  --bd-blue: var(--main-color);
+  --bd-blue-hover: var(--hover-color);
+  --bd-blue-active: var(--hover-color);
+}
+
+/* Any custom CSS below here */
+
+
